@@ -1,13 +1,13 @@
 0000000# Buton-Paneli
 Program sayesinde 4x4 şeklinde bir panele dizilen bu butonlar eğer üzerine daha önce basılmamışsa butona basıldığında aktif hale gelir yazısı ve rengi değişir.Aktif olan butona tekrar basıldığında son tıklanan buton hariç diğerleri pasif hale gelir.
 Oluşturulan pencerenin boyutu 500*500 olarak ayarlandı.Hücreler arasındaki boşluk ise 12 olarak ayarlandı
-0000000# GraphQL NEDİR:
+ GraphQL NEDİR:
 GraphQL, Facebook tarafından geliştirilmiş; verimli, etkili ve esnek bir alternatif sunan yeni bir API 
 standartıdır. Açık kaynaklı olarak geliştirilen GraphQL’i, birçok şirket aktif olarak kullanmaktadır.
 GraphQL, API tasarlamak ve kullanmak için bir yol sunmaktadır. İstemcinin ihtiyaç duyduğu verilerin 
 tam olarak belirtilmesini sağlayarak birden fazla kaynaktan veriye ulaşmanızı kolaylaştırmayı 
 hedefler.
-0000000# GraphQL NEDEN KULLANILIR:
+GraphQL NEDEN KULLANILIR:
 Değişen ihtiyaçlar nedeniyle API kavramı ciddi anlamda değilmeye devam ediyor.
 Bu noktada, API’lerin tasarlanmas aşamasına etki eden 3 etken vardır;
 - Mobil kullanımın oranının artmasına paralel olarak GraphQL, ağ üzerinden aktarılması 
@@ -20,7 +20,7 @@ haline gelmiştir.
 REST API ile, verilerin istemci tarafındaki gereksinimleri düşünülecek şekilde 
 değiştirilmesi gereklidir. Bu durumun sonucu olarak, hızlı geliştirme pratiği ve ürün 
 yinelemelerini engeller
-0000000# GraphQL Avantajları
+ GraphQL Avantajları
 1. Sadece Gerekli Kolonları Sorgulayabilmek
 Bir backend geliştirdiğimizi düşünelim. Bu backend'i kullanacak olan bir mobil uygulama ve 
 bir de web uygulaması geliştirdiğimizi ve anasayfada kullanıcı postlarını listelememiz 
